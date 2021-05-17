@@ -1,9 +1,9 @@
 package com.amazon.qa.base;
 
-import org.
+//import org
 public class RetryFailed {
 	
 	
-	@test 
+//	@test 
 
 }
